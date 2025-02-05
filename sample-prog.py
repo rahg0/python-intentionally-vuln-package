@@ -1,4 +1,4 @@
-from demo_math_ops import add, sub, mult, div
+from vuln_demo_math_ops import add, sub, mult, div
 
 # Initialise some integer variables
 value1 = 5
